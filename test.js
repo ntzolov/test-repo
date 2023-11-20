@@ -1,3 +1,5 @@
-(function testMsg() {
+function testMsg() {
   console.log('test msg');
-})();
+}
+
+testMsg();
