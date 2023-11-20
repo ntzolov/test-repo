@@ -5,3 +5,5 @@ function testMsg() {
 testMsg();
 
 console.log('test');
+
+// test
