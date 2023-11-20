@@ -4,4 +4,4 @@ function testMsg() {
 
 testMsg();
 
-// test msg
+console.log('test');
