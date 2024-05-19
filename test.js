@@ -4,4 +4,4 @@ function testMsg() {
 
 testMsg();
 
-console.log('testBranch');
+console.log('main');
