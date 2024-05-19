@@ -1,10 +1,7 @@
 function testMsg() {
-  console.log('main');
+  console.log('testBranch');
 }
 
 testMsg();
 
 console.log('main');
-
-// test
-// test 2
