@@ -1,10 +1,10 @@
 function testMsg() {
-  console.log('test msg');
+  console.log('main');
 }
 
 testMsg();
 
-console.log('test');
+console.log('main');
 
 // test
 // test 2
